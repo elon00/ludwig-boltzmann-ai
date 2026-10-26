@@ -2,7 +2,7 @@ fn main() {
     println!("=======================================================");
     println!("[SOLANA WEB4] [LUDWIG BOLTZMANN] ($BOLTZMAN)");
     println!("[FIELD] Statistical Mechanics");
-    println!("[ROLE] Statistical mechanics, molecular interpretation of entropy ($S = k \log W$), Boltzmann constant");
+    println!("[ROLE] Statistical mechanics, molecular interpretation of entropy ($S = k log W$), Boltzmann constant");
     println!("[CHAIN] Solana Sealevel Virtual Machine (SVM)");
     println!("[PQC] NIST FIPS 203 (ML-KEM-768) & FIPS 204 (ML-DSA-65) Active");
     println!("=======================================================");
