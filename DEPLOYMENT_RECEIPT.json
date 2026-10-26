@@ -1,0 +1,16 @@
+{
+  "project": "ludwig-boltzmann-ai",
+  "titan": "Ludwig Boltzmann",
+  "symbol": "",
+  "network": "Solana Devnet",
+  "cluster_url": "https://api.devnet.solana.com",
+  "mint_address": "97D3Py4JyVJjZtj4EK3nTKFAwgLtSDQb5w34g9pfMrRG",
+  "vault_account": "J6dqGFJGGgzJtLnrsGjt8Hs197h3mbYmgQgPjJ1PGhyR",
+  "initial_supply": 1000000,
+  "decimals": 9,
+  "deployer_wallet": "3q3cTxEPjtUpEJpPAnQodrTWSW7gH4NNebvg5kwd1Di7",
+  "creation_tx": "5JbuvDofT5WSzLTxRu8paWVX7wXiD8WpFZSb47wNC5Pz2iTMngnebFV2Ry9VJGQjcTi7XC79D2t2T9iXFtpe6Q7u",
+  "account_tx": "Viu2F8qMqZboy3DU3hwsyj1q3aBe3i99G358X5NQdSyzMvxTP2Eq7SgMPX1QJLjJfXJNBDESi8Nao4w1zjgEm9A",
+  "mint_tx": "3LkVuuscYJjHuFDpUaBNhpukiqxiF5TXF3abBr7xUbZVWttqW7bb9d2njonPANWCB43ZxLh6Q4WFkc1de4yVZpBi",
+  "solana_explorer_mint": "https://explorer.solana.com/address/97D3Py4JyVJjZtj4EK3nTKFAwgLtSDQb5w34g9pfMrRG?cluster=devnet"
+}
